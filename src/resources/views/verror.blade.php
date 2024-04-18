@@ -6,4 +6,5 @@
 <body>
     <p>入力内容にエラーがありました</p>
 </body>
+</html>
 @endsection

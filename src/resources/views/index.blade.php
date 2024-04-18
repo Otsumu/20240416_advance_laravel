@@ -22,9 +22,9 @@
     <th>Data</th>
   </tr>
   @foreach ($authors as $author)
-  <tr>
-    <td>{{$author->getDetail()}}</td>
-  </tr>
+    <tr>
+      <td>{{$author->getDetail()}}</td>
+    </tr>
   @endforeach
 </table>
 @endsection
